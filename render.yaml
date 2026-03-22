@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: chariow-webhook-proxy
+    runtime: node
+    plan: free
+    buildCommand: ""
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production

@@ -1,0 +1,10 @@
+{
+  "name": "chariow-webhook-proxy",
+  "version": "1.0.0",
+  "description": "HTTPS proxy for forwarding Make.com webhooks to bot-hosting.net",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
