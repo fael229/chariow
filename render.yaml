@@ -8,3 +8,9 @@ services:
     envVars:
       - key: NODE_ENV
         value: production
+      - key: CHARIOW_API_KEY
+        value: sk_44tprv4l_95402781be66d91ec90a3e0b494a58f0
+      - key: FB_ACCESS_TOKEN
+        value: EAAMgWUcszyoBREHTUc51pvj6MWqFTpoZAM4rHxumUAQ3CGZApjjR0a1MWIBJymMPm6R4Yy9A1c37bZA5JMh0ckxDduUQaAT0ZCUVcHhakpX9Y4QllYNczJqfJdgarWHC8WZCTGWzd9lTKsZBshy43WFqDG6jmRTh9JxfgHqDmmFjZBH5tA021F3WRON0wVOJr9aZAQZDZD
+      - key: FB_AD_ACCOUNT_ID
+        value: "4132886230361786"
